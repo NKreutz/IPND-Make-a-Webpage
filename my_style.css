@@ -1,0 +1,26 @@
+body{
+  background-color: whitesmoke;
+}
+
+.logo{
+  box-sizing: border-box;
+  max-width: 300px;
+}
+
+.title{
+  box-sizing: border-box;
+  text-align: center;
+
+}
+
+h2 {
+  background-color: darkblue;
+  color: red;
+  text-align: center;
+  font-size: 2em;
+}
+
+.info{
+  margin: auto;
+  width:50%;
+}
